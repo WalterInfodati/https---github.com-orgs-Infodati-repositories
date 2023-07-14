@@ -1,0 +1,10 @@
+QSPivotImage.qext;
+QSPivotImage.js;
+template.html;
+css/scoped-bootstrap.css;
+css/micromodal.css;
+js/extensionUtils.js;
+js/micromodal.min.js;
+js/properties.js;
+js/iniProperties.js;
+partials/modal.html

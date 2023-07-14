@@ -1,0 +1,14 @@
+{
+	"name": "QSPivotImage",
+	"description": "Visualizza le immagini in una tabella Pivot",
+	"type": "visualization",
+	"version": "1.0.2",
+	"author": "Infodati",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization",
+	"license": "CC",
+	"repository": "",
+	"dependencies": {
+		"qlik-sense": ">=3.0.x"
+	}
+}
